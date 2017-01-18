@@ -1,0 +1,12 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+
+li {
+  font-weight: bold;
+}
+
